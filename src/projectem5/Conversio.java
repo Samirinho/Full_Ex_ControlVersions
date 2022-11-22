@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.conversio;
+package projectem5;
 
 import java.util.Scanner;
 
@@ -20,6 +20,6 @@ public class Conversio {
         int valor_euros = sc.nextInt();
                 
         double tipus_de_canvi = 1.15d;
-        System.out.println(valor_euros + " eur0s (€) acatualmentt ewuivalen a" + (valor_euros * tipus_de_canvi) + " lliures esterlines (£)");
+        System.out.println(valor_euros + " euros (€) acatualmentt ewuivalen a" + (valor_euros * tipus_de_canvi) + " lliures esterlines (£)");
     }
 }
