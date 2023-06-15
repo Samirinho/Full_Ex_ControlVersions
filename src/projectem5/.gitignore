@@ -1,1 +1,5 @@
+El que aconseguim amb el arxiu ".gitignore" es com el seu propi nom indica ignorar, l'utilitzarem per a ignorar tipus d'arxius depenent
+de quin li diem. Ara mostrare uns petits exemples.
 
+# Així Ignorem tots els arxius de text:
+*.txt
